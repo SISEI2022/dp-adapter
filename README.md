@@ -26,6 +26,6 @@ Mediante la implementación del patrón de diseño Adapter crearemos un adaptado
 
 ### Ejecucion
 
-```
-gradle run
-```
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* En la clase principal de clic sobre el botón Play.
+
